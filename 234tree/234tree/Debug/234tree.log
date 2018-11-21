@@ -1,0 +1,12 @@
+﻿  node.cpp
+c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\node.cpp(168): error C2440: 'return': 'int'에서 'node *'(으)로 변환할 수 없습니다.
+  c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\node.cpp(168): note: 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\node.cpp(170): error C2440: 'return': 'int'에서 'node *'(으)로 변환할 수 없습니다.
+  c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\node.cpp(170): note: 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\node.cpp(172): error C2440: 'return': 'int'에서 'node *'(으)로 변환할 수 없습니다.
+  c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\node.cpp(172): note: 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  main.cpp
+  baltree.cpp
+c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\baltree.cpp(32): warning C4101: 'idx' :참조되지 않은 지역 변수입니다.
+c:\users\kook_hoi\documents\visual studio 2017\projects\234tree\234tree\baltree.cpp(53): error C2059: 구문 오류: ')'
+  코드를 생성하고 있습니다...
